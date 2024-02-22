@@ -3,7 +3,7 @@ function convertCurrency() {
         USD: {
             EUR: 0.85,
             GBP: 0.73,
-            IND: 82.99,
+            INR: 82.99,
             AED: 3.67,
             JPY: 150.32,
             AUD: 1.53,
@@ -14,7 +14,7 @@ function convertCurrency() {
         EUR: {
             USD: 1.18,
             GBP: 0.86,
-            IND: 89.64,
+            INR: 89.64,
             AED: 3.97,
             JPY: 162.57,
             AUD: 1.65,
@@ -26,7 +26,7 @@ function convertCurrency() {
         GBP: {
             USD: 1.38,
             EUR: 1.17,
-            IND: 104.61,
+            INR: 104.61,
             AED: 4.63,
             JPY: 189.65,
             AUD: 1.93,
@@ -34,7 +34,7 @@ function convertCurrency() {
             KWD: 0.39,
             CAD: 1.70,
         },
-        IND: {
+        INR: {
             USD: 0.012,
             EUR: 0.011,
             GBP: 0.0096,
